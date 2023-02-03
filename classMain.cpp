@@ -4,6 +4,6 @@ using namespace std;
 
 classMain::classMain()
 {
-   cout<<"hello hanwa"<<endl;
+   cout<<"bonjour monsieur"<<endl;
 }
 
